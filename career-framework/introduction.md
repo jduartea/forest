@@ -85,4 +85,17 @@ The framework is organized by discipline. Each discipline has:
     *   [Data Scientist](data/levels/data-scientist.md)
     *   [Manager](data/levels/manager.md)
 
+## Useful Links
+
+*   [engineeringladders.com](https://engineeringladders.com)
+*   [Basecamp's Titles for Programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
+*   [Remote Engineering Career Paths](https://remotecom.notion.site/Remote-Engineering-Career-Paths-998d7d0e0f8d45c7ba5f7f2d2da7a26f)
+*   [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders?tab=readme-ov-file#misc)
+*   [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html)
+*   [Nidup's Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
+*   [www.engineeringladders.com](https://www.engineeringladders.com/)
+*   [career-ladders.dev](https://career-ladders.dev/engineering/)
+*   [jorgef/engineeringladders on GitHub](https://github.com/jorgef/engineeringladders/tree/master)
+*   [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
+
 This is a living framework that will evolve as our teams, roles, and the industry change.
