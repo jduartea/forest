@@ -93,9 +93,10 @@ The framework is organized by discipline. Each discipline has:
 *   [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders?tab=readme-ov-file#misc)
 *   [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/overview.html)
 *   [Nidup's Engineering Career Ladders](https://www.nidup.io/garden/engineering-career-ladders)
-*   [www.engineeringladders.com](https://www.engineeringladders.com/)
 *   [career-ladders.dev](https://career-ladders.dev/engineering/)
 *   [jorgef/engineeringladders on GitHub](https://github.com/jorgef/engineeringladders/tree/master)
 *   [Etsy Engineering Career Ladder](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
+*   [Lenny's Product Management Career Ladders](https://www.lennysnewsletter.com/p/product-management-career-ladders)
+*   [Data Science Leadership Career Ladder](https://datascienceleadership.com/docs/people-management/career-ladder)
 
 This is a living framework that will evolve as our teams, roles, and the industry change.
