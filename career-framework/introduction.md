@@ -1,6 +1,6 @@
 # Career Framework
 
-This framework provides a clear and consistent guide for career progression across our **Engineering, Product, and Data** disciplines. It is designed to empower every team member to take ownership of their growth, understand what success looks like at each level, and see the path ahead.
+This framework provides a clear and consistent guide for career progression across our **Engineering, Product, Data, and HR** disciplines. It is designed to empower every team member to take ownership of their growth, understand what success looks like at each level, and see the path ahead.
 
 Our goal is to support both deep technical mastery and strong people leadership, recognizing that both paths are essential to our success.
 
@@ -11,7 +11,7 @@ Our approach to career growth is built on a few core principles:
 1.  **Growth is Multi-faceted**: We don't believe in a one-size-fits-all ladder. Instead, we use six core **axes** of growth to describe the different dimensions of a role. This allows us to recognize and reward different "shapes" of talent.
 2.  **Progression is Not Linear**: People develop skills at different rates. A Senior Engineer might be exceptional in `System` architecture but still developing their `Influence`. This framework is designed to reflect that reality, using radar charts to visualize each role's unique competency shape at every level.
 3.  **Clarity and Transparency**: This framework aims to make expectations explicit. It is a shared language for talking about performance, feedback, and development goals between team members and their managers.
-4.  **Discipline-Specific, Centrally Aligned**: While the core axes provide consistency, the specific behaviors and expectations are tailored to the unique demands of each discipline—Engineering, Product, and Data.
+4.  **Discipline-Specific, Centrally Aligned**: While the core axes provide consistency, the specific behaviors and expectations are tailored to the unique demands of each discipline—Engineering, Product, Data, and HR.
 
 ## The Six Axes
 
@@ -84,6 +84,12 @@ The framework is organized by discipline. Each discipline has:
     *   [Data Engineer](data/levels/data-engineer.md)
     *   [Data Scientist](data/levels/data-scientist.md)
     *   [Manager](data/levels/manager.md)
+
+### HR
+
+*   **[Axes](hr/axes.md)**: Defines the core competencies for HR roles.
+*   **Levels**
+    *   [HRBP](hr/levels/hrbp.md)
 
 ## Useful Links
 
